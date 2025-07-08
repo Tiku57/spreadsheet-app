@@ -53,7 +53,6 @@ _Deployed with Vercel_
 ## 👨‍💻 Author
 
 **Aaditya Sattawan**  
-📧 [aaditya@example.com](mailto:aadityasattawan@gmail.com)  
 
 ---
 
