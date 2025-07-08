@@ -53,9 +53,7 @@ _Deployed with Vercel_
 ## 👨‍💻 Author
 
 **Aaditya Sattawan**  
-📧 [aaditya@example.com](mailto:aaditya@example.com)  
-🌐 [Portfolio](https://your-portfolio.com)  
-🐙 [GitHub](https://github.com/your-username)
+📧 [aaditya@example.com](mailto:aadityasattawan@gmail.com)  
 
 ---
 
