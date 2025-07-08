@@ -1,12 +1,63 @@
-# React + Vite
+# 🧮 Editable React Spreadsheet UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern spreadsheet-style web UI built using **React**, **Tailwind CSS**, and **TanStack React Table v8**. This application supports inline editing, keyboard navigation, and includes headers, filters, toolbars, and a footer — all in a responsive, elegant layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshot
 
-## Expanding the ESLint configuration
+![App Screenshot](./screenshot.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- ✅ Editable table cells with click-to-edit
+- ⌨️ Keyboard navigation (arrow keys, Enter, Escape)
+- 🔍 Search bar to filter across all columns
+- 📊 Static 40-row layout with blank fillers
+- 📌 Sticky table header with scrollable data section
+- 🛠 Toolbar with action buttons (Import, Export, Share, etc.)
+- 🧭 Header + Footer always visible
+- 💄 Styled using TailwindCSS and utility classes
+
+---
+
+## 🧱 Tech Stack
+
+- [React 18](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TanStack React Table v8](https://tanstack.com/table/v8)
+- [Vite](https://vitejs.dev/) (optional based on setup)
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/spreadsheet-app.git
+cd spreadsheet-app
+npm install
+npm run dev
+```
+
+---
+
+## 🔗 Live Preview
+
+👉 [https://spreadsheet-app.vercel.app](https://spreadsheet-app.vercel.app)  
+_Deployed with Vercel_
+
+---
+
+## 👨‍💻 Author
+
+**Aaditya Sattawan**  
+📧 [aaditya@example.com](mailto:aaditya@example.com)  
+🌐 [Portfolio](https://your-portfolio.com)  
+🐙 [GitHub](https://github.com/your-username)
+
+---
+
+
+
