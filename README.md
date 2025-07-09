@@ -35,7 +35,7 @@ A modern spreadsheet-style web UI built using **React**, **Tailwind CSS**, and *
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/spreadsheet-app.git
+git clone https://github.com/Tiku57/spreadsheet-app.git
 cd spreadsheet-app
 npm install
 npm run dev
