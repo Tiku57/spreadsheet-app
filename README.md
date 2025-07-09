@@ -45,7 +45,7 @@ npm run dev
 
 ## 🔗 Live Preview
 
-👉 [https://spreadsheet-app.vercel.app](https://spreadsheet-app.vercel.app)  
+👉 [https://spreadsheet-app.vercel.app](spreadsheet-app-puce-nu.vercel.app)  
 _Deployed with Vercel_
 
 ---
