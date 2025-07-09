@@ -6,7 +6,7 @@ A modern spreadsheet-style web UI built using **React**, **Tailwind CSS**, and *
 
 ## 📸 Screenshot
 
-![Spreadsheet Screenshot](Screenshot1.png)
+<img src="Screenshot1.png" width="100%"/>
 
 ---
 
