@@ -6,20 +6,22 @@ A modern spreadsheet-style web UI built using **React**, **Tailwind CSS**, and *
 
 ## 📸 Screenshot
 
-![Spreadsheet Screenshot](./public/Screenshot.png)
+<p align="center">
+  <img src="./public/Screenshot.png" alt="Spreadsheet Screenshot" width="100%" />
+</p>
 
 ---
 
 ## 🚀 Features
 
-- ✅ Editable table cells with click-to-edit
-- ⌨️ Keyboard navigation (arrow keys, Enter, Escape)
-- 🔍 Search bar to filter across all columns
-- 📊 Static 40-row layout with blank fillers
-- 📌 Sticky table header with scrollable data section
-- 🛠 Toolbar with action buttons (Import, Export, Share, etc.)
-- 🧭 Header + Footer always visible
-- 💄 Styled using TailwindCSS and utility classes
+- ✅ Editable table cells with click-to-edit  
+- ⌨️ Keyboard navigation (arrow keys, Enter, Escape)  
+- 🔍 Search bar to filter across all columns  
+- 📊 Static 40-row layout with blank fillers  
+- 📌 Sticky table header with scrollable data section  
+- 🛠 Toolbar with action buttons (Import, Export, Share, etc.)  
+- 🧭 Header + Footer always visible  
+- 💄 Styled using TailwindCSS and utility classes  
 
 ---
 
@@ -28,7 +30,7 @@ A modern spreadsheet-style web UI built using **React**, **Tailwind CSS**, and *
 - [React 18](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [TanStack React Table v8](https://tanstack.com/table/v8)
-- [Vite](https://vitejs.dev/) (optional based on setup)
+- [Vite](https://vitejs.dev/)
 
 ---
 
