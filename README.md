@@ -6,7 +6,7 @@ A modern spreadsheet-style web UI built using **React**, **Tailwind CSS**, and *
 
 ## 📸 Screenshot
 
-<img src="./public/Screenshot1.png" alt="Spreadsheet Screenshot" width="100%" />
+![Spreadsheet Screenshot](Screenshot1.png)
 
 ---
 
@@ -25,10 +25,10 @@ A modern spreadsheet-style web UI built using **React**, **Tailwind CSS**, and *
 
 ## 🧱 Tech Stack
 
-- [React 18](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [TanStack React Table v8](https://tanstack.com/table/v8)
-- [Vite](https://vitejs.dev/)
+- [React 18](https://reactjs.org/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- [TanStack React Table v8](https://tanstack.com/table/v8)  
+- [Vite](https://vitejs.dev/) (optional based on setup)
 
 ---
 
